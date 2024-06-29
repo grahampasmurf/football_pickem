@@ -19,7 +19,7 @@ dfx help
 dfx canister --help
 ```
 
-## Running the project locally
+## Running the project locally 
 
 If you want to test your project locally, you can use the following commands:
 
